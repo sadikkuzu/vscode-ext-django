@@ -1,7 +1,7 @@
 {
 	"name": "django-vscode",
 	"displayName": "Django 4.x Snippets",
-	"description": "A collection of snippets for django templates, models, views, fields & forms. Ported from Djaneiro for SublimeText",
+	"description": "A collection of snippets for django templates, models, views, fields & forms. Ported from Djaneiro for SublimeText. Forked from ScottBarkman/vscode-djaneiro",
 	"version": "1.0",
 	"publisher": "Mayank Singhal",
 	"icon": "images/djaneiro.png",
@@ -22,7 +22,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ScottBarkman/vscode-djaneiro"
+		"url": "https://github.com/Developermayank/vscode-ext-django"
 	},
 	"contributes": {
 		"languages": [
